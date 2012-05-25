@@ -1,0 +1,17 @@
+{
+  "author": "Buwei Chiu <bu@hax4.in> (http://bu.hax4.in/)",
+  "name": "Accessor_Singleton",
+  "description": "A instance pool for Accessor module",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/bu/Accessor_Singleton/"
+  },
+  "dependencies": {
+  	"Accessor": "0.1.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
