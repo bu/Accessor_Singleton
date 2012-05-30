@@ -1,17 +1,31 @@
 {
-  "author": "Buwei Chiu <bu@hax4.in> (http://bu.hax4.in/)",
+  "author": {
+    "name": "Buwei Chiu",
+    "email": "bu@hax4.in",
+    "url": "http://bu.hax4.in/"
+  },
   "name": "Accessor_Singleton",
   "description": "A instance pool for Accessor module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "url": "https://github.com/bu/Accessor_Singleton/"
   },
   "dependencies": {
-  	"Accessor": "0.1.0"
+    "Accessor": ">=0.1.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
     "node": "*"
-  }
+  },
+  "_npmUser": {
+    "name": "bu",
+    "email": "bu@hax4.in"
+  },
+  "_id": "Accessor_Singleton@0.1.0",
+  "_engineSupported": true,
+  "_npmVersion": "1.1.21",
+  "_nodeVersion": "v0.6.18",
+  "_defaultsLoaded": true,
+  "_from": "Accessor_Singleton"
 }
