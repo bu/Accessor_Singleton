@@ -6,12 +6,12 @@
   },
   "name": "Accessor_Singleton",
   "description": "A instance pool for Accessor module",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "url": "https://github.com/bu/Accessor_Singleton/"
   },
   "dependencies": {
-    "Accessor": ">=0.1.0"
+    "Accessor": ">=0.2.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
