@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/bu/Accessor_Singleton.png)](http://travis-ci.org/bu/Accessor_Singleton)
 Accessor_Singleton
 ==================
 
